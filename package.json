@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<AllanCordova>.github.io/<taskk-manager-react>",
+  "homepage": "https://<AllanCordova>.github.io/<task-manager-react>",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
